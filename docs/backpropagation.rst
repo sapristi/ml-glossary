@@ -46,7 +46,7 @@ Given a network consisting of a single neuron, total cost could be calculated as
 
 .. math::
 
-  Cost = C(R(Z(X W)))
+  Cost = C(R(Z(W)))
 
 Using the chain rule we can easily find the derivative of Cost with respect to weight W.
 
